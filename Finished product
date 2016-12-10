@@ -6,8 +6,9 @@
         img {position:absolute; width:100px; height:100px;}
         div {position:absolute; width: 500px; height: 500px;}
         #rightSide {left:500px; border-left: 1px solid #00ff11;}
-        h1 {color: #dafaff}
-        body { color: #fffbff
+        h1 {color: #ff28fc
+        }
+        body { color: #ff28fc
         }
         #ad {text-align: center; display: block; align-content: center;
             padding-bottom: 10px;}
@@ -16,8 +17,8 @@
         #ad3 {text-align: center; display: block; align-content: center;
             padding-bottom: 10px;}
         #tum {height: 256px; width: 350px; border: none; margin: 0 auto; display: block;}
-        #tums {height: 256px; width: 350px; border: none; margin: 0 auto; display: block;}
-        #tumble {height: 256px; width: 350px; border: none; margin: 0 auto; display: block;}
+        #tums {height: 376px; width: 350px; border: none; margin: 0 auto; display: block;}
+        #tumble {height: 356px; width: 350px; border: none; margin: 0 auto; display: block;}
     </style>
 
 </head>
@@ -37,7 +38,7 @@
     <img src="Images/vert.jpeg" id="tums">
 <div id="ad3" class="dragElement" data-title="Here comes the TUMULTIZER!!!!">
     <h1>GONNA SERVE SOME JUSTICE</h1>
-    <img src="Images/Bike.jpeg" id="tumble">
+    <img src="Images/soul.jpeg" id="tumble">
 </div>
 </div>
 </div>
